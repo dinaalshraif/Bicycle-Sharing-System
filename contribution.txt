@@ -1,0 +1,25 @@
+Yifan Jin：
+	Design prototype for Report and Payment
+	Write the code of the report function
+Zhiyuan Jing:
+	Prototype in Group 2 analysis and design
+	Write the code of operator.py
+Guannan Lu:
+	Requirement analysis and user story of operator and manager
+	Prototype of operator
+	GUI disign and bar chart of manager.py
+Tengyu Zhang:
+	SQL of manager.py
+	E-R graph of operator and manager
+	Prototype of manager
+Cunxu He:
+	Functional requirement of customer
+	Write the submitted report
+Fuyu Jia:
+	Designed the prototype of login, logout, rent and return function in 'user' part
+	Payment function and bank account function of user.py
+	Insert related information in ride table in the database
+Dina Khalid A Alsharif:
+	Design the Data base 
+	Implement log in function, registration function, rent bike function, Return bike function
+ 
